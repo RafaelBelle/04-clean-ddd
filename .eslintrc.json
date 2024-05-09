@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "plugin:vitest-globals/recommended"
+  ],
+  "rules": {
+    "no-useless-constructor": "off"
+  },
+  "env": {
+    "vitest-globals/env": true
+  }
+}
